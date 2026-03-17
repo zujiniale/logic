@@ -1,4 +1,4 @@
-# Resumo — Aula 01: Lógica de Programação
+# Resumo! Aula 01: Lógica de Programação
 
 ## O que é um Algoritmo?
 Um algoritmo é uma sequência de passos organizados e finitos que resolvem um problema.
@@ -9,7 +9,7 @@ Um algoritmo é uma sequência de passos organizados e finitos que resolvem um p
 - **Processamento:** o que o programa faz com esses dados (ex: soma e divide por 2)
 - **Saída:** o resultado final (ex: a média)
 
-## Exemplo do dia a dia — Fazer Café
+## Exemplo do dia a dia; Fazer Café
 1. Pegar o pó de café e o filtro
 2. Colocar o filtro na cafeteira
 3. Adicionar o pó no filtro
@@ -23,6 +23,6 @@ Um algoritmo é uma sequência de passos organizados e finitos que resolvem um p
 |---------|-----------|
 | **Algoritmo** | Sequência lógica e finita de passos para resolver um problema |
 | **Hardware** | Parte física do computador (teclado, memória, processador) |
-| **Software** | Parte lógica do computador — os programas e sistemas |
+| **Software** | Parte lógica do computador. Os programas e sistemas |
 | **Lógica de Programação** | Forma de pensar e organizar instruções para criar programas |
 | **Pseudocódigo** | Forma de escrever um algoritmo em linguagem próxima ao humano, antes de programar |
